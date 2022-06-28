@@ -2,17 +2,19 @@
 
 using namespace std;
 
-#define C 1
-#define O  3
-#define  S 6
-#define I 9
-
-
-
+#define S   9
+#define I   6   
+#define C   3
+#define O   1
 
 int main(){
-    long int h ;
-    h = 20L;
-    cout<<" Hi World!! "<<endl;
-    cout<<O<<endl;
+    int i = 1;
+    float f;
+    char ch = i;
+    double d;
+    bool awns  =i ;
+    cout<<awns<<endl;
+    cout<<ch<<endl;
+    return 0 ;
+ //float  double = double
 }
