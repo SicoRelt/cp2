@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+main
+.gitignore
+main.dSYM/Contents/Info.plist
+.vscode/tasks.json
