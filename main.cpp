@@ -2,19 +2,12 @@
 
 using namespace std;
 
-#define S   9
-#define I   6   
-#define C   3
-#define O   1
-
-int main(){
-    int i = 1;
-    float f;
-    char ch = i;
-    double d;
-    bool awns  =i ;
-    cout<<awns<<endl;
-    cout<<ch<<endl;
-    return 0 ;
- //float  double = double
+int main()
+{
+    int a,b,c;
+    float one,two,three;
+    cout<<"number of (A) : "<<endl;
+    cin>>a;
+    cout<<a;
+    return 0;
 }
